@@ -1,11 +1,11 @@
-#include<iostream>
-
-void solve() {};
+#include <iostream>
 
 int main() {
-	int t;
+	unsigned long long int t;
 	std::cin >> t;
 
-	while (t--) solve();
+	while (t--) {
+	}
+
 	return 0;
 }
